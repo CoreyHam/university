@@ -12,7 +12,7 @@ export default function Navbar({ fixed }) {
                             className="text-lg font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase text-gray-950"
                             to="/"
                         >
-                            University
+                            Saturn University
                         </Link>
                         <button
                             className="text-gray-950 cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
@@ -36,21 +36,21 @@ export default function Navbar({ fixed }) {
                         <ul className="flex flex-col lg:flex-row list-none lg:ml-auto">
                             <li className="nav-item">
                                 <CustomLink
-                                    className="px-3 py-2 flex items-center text-lg uppercase font-bold leading-snug text-gray-950 hover:opacity-75"
+                                    className="px-3 py-2 flex items-center text-lg uppercase font-bold leading-snug text-gray-950 hover:text-amber-400"
                                     to="/apply"
                                 >Apply
                                 </CustomLink>
                             </li>
                             <li className="nav-item">
                                 <CustomLink
-                                    className="px-3 py-2 flex items-center text-lg uppercase font-bold leading-snug text-gray-950 hover:opacity-75"
+                                    className="px-3 py-2 flex items-center text-lg uppercase font-bold leading-snug text-gray-950 hover:text-amber-400"
                                     to="/programs"
                                 >Programs
                                 </CustomLink>
                             </li>
                             <li className="nav-item">
                                 <CustomLink
-                                    className="px-3 py-2 flex items-center text-lg uppercase font-bold leading-snug text-gray-950 hover:opacity-75"
+                                    className="px-3 py-2 flex items-center text-lg uppercase font-bold leading-snug text-gray-950 hover:text-amber-400"
                                     to="/about"
                                 >About
                                 </CustomLink>
