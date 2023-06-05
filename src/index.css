@@ -9,9 +9,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.hero{
+  background-image: url(./Components/Images/saturn-university.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
