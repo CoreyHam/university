@@ -4,7 +4,7 @@ import Home from './Components/Home';
 // import { Tuition } from './Components/Tuition';
 // import { Contact } from './Components/Contact';
 import Navbar from './Components/Navbar';
-// import { Footer } from './Components/Footer';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
           {/* <Route path='/Tuition' element={<Tuition />} /> */}
           {/* <Route path='/Contact' element={<Contact />} /> */}
         </Routes>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
