@@ -18,7 +18,7 @@ code {
 }
 
 .hero{
-  background-image: url(./Images/saturn-university.png);
+  background-image: url(./Components/Images/saturn-university.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
