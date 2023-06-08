@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/university/static/css/main.ff2c9113.css",
-    "main.js": "/university/static/js/main.fb7e6fb9.js",
+    "main.js": "/university/static/js/main.24993704.js",
     "static/js/787.c0cfd400.chunk.js": "/university/static/js/787.c0cfd400.chunk.js",
     "static/media/astronaut-painting.png": "/university/static/media/astronaut-painting.102ca6daf0e78c28738d.png",
     "static/media/astronaut-conference.png": "/university/static/media/astronaut-conference.47a48ef2ef4a92565ab7.png",
@@ -11,11 +11,11 @@
     "static/media/new-moon.png": "/university/static/media/new-moon.929670c25ff1b9fa07ed.png",
     "index.html": "/university/index.html",
     "main.ff2c9113.css.map": "/university/static/css/main.ff2c9113.css.map",
-    "main.fb7e6fb9.js.map": "/university/static/js/main.fb7e6fb9.js.map",
+    "main.24993704.js.map": "/university/static/js/main.24993704.js.map",
     "787.c0cfd400.chunk.js.map": "/university/static/js/787.c0cfd400.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff2c9113.css",
-    "static/js/main.fb7e6fb9.js"
+    "static/js/main.24993704.js"
   ]
 }
