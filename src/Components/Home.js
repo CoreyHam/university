@@ -21,7 +21,7 @@ export default function Home({ fixed }) {
       </div>
       <div className='flex flex-col align-center items-center'>
         <div className='w-screen flex justify-center flex-col lg:flex-row lg:py-10'>
-          <img className='flex justify-center lg:w-1/4 h-1/4' src={roboticsTeam} />
+          <img className='flex justify-center lg:w-1/4 h-1/4' src={roboticsTeam} alt='the robotics team with trophy' />
           <div className='flex flex-col px-10 py-10 h-full lg:w-1/4'>
             <p className='text-3xl font-bold' >SU's Robotics Team Wins International Competition</p>
             <p>Saturn University's robotics team triumphs in an international robotics competition, showcasing their exceptional engineering skills and innovative designs that push the boundaries of autonomous technology.</p>
@@ -30,27 +30,27 @@ export default function Home({ fixed }) {
         </div>
         <div className='flex'>
           <div className='card px-5 w-80 hover:cursor-pointer transition duration-300 ease-in-out hover:scale-110'>
-            <img className='' src={newMoon} />
+            <img className='' src={newMoon} alt='new moon' />
             <p className='font-bold'>SU Researchers Discover New Moons Orbiting the Ringed Planet</p>
             <p>Saturn University's astrophysics team makes a groundbreaking discovery, identifying previously unknown moons in orbit around Saturn. Their findings shed light on the complex dynamics of Saturn's celestial neighborhood.</p>
           </div>
           <div className='card px-5 w-80 hover:cursor-pointer transition duration-300 ease-in-out hover:scale-110'>
-            <img className='' src={astronautConference} />
+            <img className='' src={astronautConference} alt='astronauts at a conference'/>
             <p className='font-bold'>Saturn University Hosts International Space Exploration Conference</p>
             <p>Saturn University becomes the global epicenter for space exploration as it hosts a prestigious conference, bringing together leading scientists, astronauts, and visionaries to share cutting-edge research and insights.</p>
           </div>
           <div className='card px-5 w-80 hover:cursor-pointer transition duration-300 ease-in-out hover:scale-110'>
-            <img className='' src={astronautPainting} />
+            <img className='' src={astronautPainting} alt='astronaut painting' />
             <p className='font-bold'>SU's Art Exhibition Celebrates the Intersection of Science and Creativity</p>
             <p>An immersive art exhibition at Saturn University showcases the breathtaking fusion of art and science, exploring how the cosmos inspires artistic expression and encourages a deeper understanding of the universe.</p>
           </div>
           <div className='card px-5 w-80 hover:cursor-pointer transition duration-300 ease-in-out hover:scale-110'>
-            <img className='' src={doctor} />
+            <img className='' src={doctor} alt='doctor astronaut'/>
             <p className='font-bold'>Saturn University Launches Space Medicine Program for Aspiring Astronauts</p>
             <p>Saturn University introduces a pioneering space medicine program that equips future astronauts with the necessary knowledge and skills to thrive in the demanding environment of space exploration.</p>
           </div>
         </div>
-        <button className='transition duration-300 ease-in-out border-4 bg-red-700 text-white px-4 py-4 mt-10 border-solid border-transparent hover:border-red-700 hover:bg-white hover:text-red-700'>Read More News</button>
+        <button className='transition duration-300 ease-in-out border-4 bg-red-700 text-white px-4 py-4 my-10 border-solid border-transparent hover:border-red-700 hover:bg-white hover:text-red-700'>Read More News</button>
       </div>
     </>
 

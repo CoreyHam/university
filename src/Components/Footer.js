@@ -121,7 +121,7 @@ export default function Footer({ fixed }) {
                         <div className="text-sm text-white font-semibold py-1">
                             Made by{" "}
                             <a
-                                href="https://www.linkedin.com/in/corey-hampton-dev/"
+                                href="https://coreyham.github.io"
                                 className="text-white hover:text-gray-900"
                             >
                                 Corey Hampton
