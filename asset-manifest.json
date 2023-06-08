@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/university/static/css/main.ff2c9113.css",
+    "main.js": "/university/static/js/main.9b2a2357.js",
+    "static/js/787.c0cfd400.chunk.js": "/university/static/js/787.c0cfd400.chunk.js",
+    "static/media/astronaut-painting.png": "/university/static/media/astronaut-painting.102ca6daf0e78c28738d.png",
+    "static/media/astronaut-conference.png": "/university/static/media/astronaut-conference.47a48ef2ef4a92565ab7.png",
+    "static/media/saturn-university.png": "/university/static/media/saturn-university.abb85001d1e935972d14.png",
+    "static/media/doctor.png": "/university/static/media/doctor.056982c4fa1a288c1cf5.png",
+    "static/media/robotics-team.png": "/university/static/media/robotics-team.4f5b7aa2fe73f60a6527.png",
+    "static/media/new-moon.png": "/university/static/media/new-moon.929670c25ff1b9fa07ed.png",
+    "index.html": "/university/index.html",
+    "main.ff2c9113.css.map": "/university/static/css/main.ff2c9113.css.map",
+    "main.9b2a2357.js.map": "/university/static/js/main.9b2a2357.js.map",
+    "787.c0cfd400.chunk.js.map": "/university/static/js/787.c0cfd400.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff2c9113.css",
+    "static/js/main.9b2a2357.js"
+  ]
+}
