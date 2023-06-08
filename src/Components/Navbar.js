@@ -42,14 +42,14 @@ export default function Navbar({ fixed }) {
                             <li className="nav-item">
                                 <CustomLink
                                     className="px-3 flex items-center text-lg uppercase font-bold leading-snug text-white"
-                                    to="/academics"
+                                    // to="/academics"
                                 ><p className="border-b-4 border-transparent hover:border-white">ACADEMICS</p>
                                 </CustomLink>
                             </li>
                             <li className="nav-item">
                                 <CustomLink
                                     className="px-3 flex items-center text-lg uppercase font-bold leading-snug text-white"
-                                    to="/admissions"
+                                    // to="/admissions"
                                     
                                 ><p className="border-b-4 border-transparent hover:border-white">ADMISSIONS & AID</p>
                                 </CustomLink>
@@ -57,28 +57,28 @@ export default function Navbar({ fixed }) {
                             <li className="nav-item">
                                 <CustomLink
                                     className="px-3 flex items-center text-lg uppercase font-bold leading-snug text-white"
-                                    to="/student-life"
+                                    // to="/student-life"
                                 ><p className="border-b-4 border-transparent hover:border-white">STUDENT LIFE</p>
                                 </CustomLink>
                             </li>
                             <li className="nav-item">
                                 <CustomLink
                                     className="px-3 flex items-center text-lg uppercase font-bold leading-snug text-white"
-                                    to="/research"
+                                    // to="/research"
                                 ><p className="border-b-4 border-transparent hover:border-white">RESEARCH</p>
                                 </CustomLink>
                             </li>
                             <li className="nav-item">
                                 <CustomLink
                                     className="px-3 flex items-center text-lg uppercase font-bold leading-snug text-white"
-                                    to="/athletics"
+                                    // to="/athletics"
                                 ><p className="border-b-4 border-transparent hover:border-white">ATHLETICS</p>
                                 </CustomLink>
                             </li>
                             <li className="nav-item">
                                 <CustomLink
                                     className="px-3 flex items-center text-lg uppercase font-bold leading-snug text-white"
-                                    to="/about"
+                                    // to="/about"
                                 ><p className="border-b-4 border-transparent hover:border-white">ABOUT</p>
                                 </CustomLink>
                             </li>
